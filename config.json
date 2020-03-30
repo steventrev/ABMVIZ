@@ -1,5 +1,8 @@
 {
   "regions":{
+  	"tampa":{
+       "datalocation":  "https://raw.githubusercontent.com/steventrev/ActivityViz_Data/master/data/tampa/"
+    },
     "nebraska":{
        "datalocation":  "https://raw.githubusercontent.com/steventrev/ActivityViz_Data/master/data/nebraska/"
     }
